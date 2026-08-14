@@ -1,5 +1,7 @@
 # AI Visual Content Resource Collection
 
+Last updated: Aug 14, 2026
+
 ## Image Generation and Editing Related
 
 - [PicEditor AI Makes Image Editing Feel Less Intimidating](https://www.imei.info/news/piceditor-ai-makes-image-editing-feel-less-intimidating/)
@@ -18,6 +20,7 @@
 - [Better visuals for storage benchmark reviews without distorting the data](https://crystaldiskmark.org/better-visuals-for-storage-benchmark-reviews-without-distorting-the-data/)
 - [A Practical Legal Review Framework for AI-Edited Business Images](https://thelawbrigade.com/general-research/a-practical-legal-review-framework-for-ai-edited-business-images/)
 - [Using AI Image Tools to Make English Lessons Easier to Understand](https://grammarwaves.com/using-ai-image-tools-to-make-english-lessons-easier-to-understand/)
+- [How AI Photo Tools Turn Ordinary Pictures Into Paintings and Silhouettes](https://wnynewsnow.com/2026/08/13/how-ai-photo-tools-turn-ordinary-pictures-into-paintings-and-silhouettes/)
 
 ## Video Generation and Editing Related
 
